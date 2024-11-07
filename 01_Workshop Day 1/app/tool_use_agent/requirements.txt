@@ -1,0 +1,9 @@
+langgraph
+langchain_anthropic
+tavily-python
+langchain_community
+langchain_openai
+qdrant-client 
+pymupdf 
+arxiv
+tiktoken

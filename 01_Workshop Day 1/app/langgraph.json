@@ -1,0 +1,11 @@
+{
+  "python_version": "3.11",
+  "dockerfile_lines": [],
+  "dependencies": [
+    "./tool_use_agent"
+  ],
+  "graphs": {
+    "tool_use_agent": "./tool_use_agent/agent.py:compiled_graph"
+  },
+  "env": ".env"
+}
