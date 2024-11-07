@@ -7,3 +7,4 @@ qdrant-client
 pymupdf 
 arxiv
 tiktoken
+duckduckgo_search==5.3.1b1
