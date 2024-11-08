@@ -6,6 +6,8 @@ In the first session, we'll make a simple LangGraph Tool Use Agent to familiariz
 
 Execute the code cells and familiarize yourself with the basic flow of LangGraph.
 
+Colab Notebook: [Here](https://colab.research.google.com/drive/1GOT6oA66opXCY2qWiopA3eTC2SCDRxqC?usp=sharing)
+
 ## 🏗️ Task 2: (Overnight):
 
 Use the boilerplate provided in the notebook to create a Tool Use agent of your own. Take the following steps:
