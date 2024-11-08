@@ -1,0 +1,6 @@
+langgraph==0.2.32
+langchain==0.2.14
+tavily-python
+langchain_community
+langchain_openai==0.1.23
+langchain_core==0.2.39

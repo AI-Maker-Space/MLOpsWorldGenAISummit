@@ -1,0 +1,13 @@
+{
+  "python_version": "3.11",
+  "dockerfile_lines": [],
+  "dependencies": [
+    "./multi_agent_system"
+  ],
+  "graphs": {
+    "research_team": "./multi_agent_system/agent.py:research_graph",
+    "document_team": "./multi_agent_system/agent.py:authoring_graph",
+    "parent_agent": "./multi_agent_system/agent.py:super_graph"
+  },
+  "env": ".env"
+}
