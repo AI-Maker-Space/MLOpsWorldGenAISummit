@@ -1,4 +1,4 @@
-# Mutli-Agent Systems - Powered by LangGraph
+# Multi-Agent Systems - Powered by LangGraph
 
 In the first session, we'll make a simple LangGraph Tool Use Agent to familiarize ourself with LangGraph and the core patterns of Generative AI.
 
